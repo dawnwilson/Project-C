@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a6b9deac790f40c68d042412ba76f3c, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 179472203576854103, guid: a6b31db34d35544a5b3f709ec3973cdd, type: 3}
+  icon: {fileID: 21300000, guid: a51d7d8ec14e646549f716817fb596d2, type: 3}
+  type: 1
+  description: Slice and dice your enemies!
+  attackBonus: 16
+  defenceBonus: 0
