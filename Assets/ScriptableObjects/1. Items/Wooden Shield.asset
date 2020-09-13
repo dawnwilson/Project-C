@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a6b9deac790f40c68d042412ba76f3c, type: 3}
   m_Name: Wooden Shield
   m_EditorClassIdentifier: 
-  prefab: {fileID: 3301101221986589226, guid: 9874f745e2d9a4993a5502bc3dc29f34, type: 3}
-  icon: {fileID: 21300000, guid: 1704b0b9570c34222893a9f53fd1f46e, type: 3}
+  Id: 3
+  uiDisplay: {fileID: 21300000, guid: 1704b0b9570c34222893a9f53fd1f46e, type: 3}
   type: 1
   description: Slice and dice your enemies!
-  attackBonus: 16
-  defenceBonus: 0
+  buffs:
+  - attribute: 3
+    value: 0
+    min: 4
+    max: 20

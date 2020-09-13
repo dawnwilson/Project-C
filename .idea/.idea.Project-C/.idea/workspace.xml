@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32d5d914-8287-45f8-98b5-d1873c08845b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1. GFX/InventoryItemGFX Variant 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1. GFX/InventoryItemGFX Variant 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1. GFX/InventoryItemGFX Variant 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1. GFX/InventoryItemGFX Variant 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1. GFX/InventoryItemGFX Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1. GFX/InventoryItemGFX Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1. GFX/InventoryItemGFX.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/1. GFX/InventoryItemGFX.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/EquipmentObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/EquipmentObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/FoodObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/FoodObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/ItemDatabaseObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/ItemDatabaseObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/ItemObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/ItemObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/Banana.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/Banana.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/Bones.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/Bones.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/Katana.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/Katana.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/Wooden Shield.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/Wooden Shield.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/2. Inventory/2.1. Scripts/InventoryObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/2. Inventory/2.1. Scripts/InventoryObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/2. Inventory/Player Inventory.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/2. Inventory/Player Inventory.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DisplayInventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DisplayInventory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Item.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Item.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Panel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Panel.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Placeholder01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Placeholder01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Placeholder02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Placeholder02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Placeholder03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Placeholder03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Placeholder04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Placeholder04.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Slot.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Slot.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-C.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Project-C.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/ItemDatabaseObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DisplayInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObjects/2. Inventory/2.1. Scripts/InventoryObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/ItemObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/FoodObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObjects/1. Items/1.1. Scripts/EquipmentObject.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hQBa2TcwnpASGcPwfSbKi3PMmR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32d5d914-8287-45f8-98b5-d1873c08845b" name="Default Changelist" comment="" />
+      <created>1599933507941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599933507941</updated>
+      <workItem from="1599933525320" duration="4356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
